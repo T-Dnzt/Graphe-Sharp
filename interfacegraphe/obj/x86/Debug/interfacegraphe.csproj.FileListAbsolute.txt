@@ -1,0 +1,78 @@
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\MainWindow.baml
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\MainWindow.g.cs
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\App.g.cs
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\interfacegraphe_MarkupCompile.cache
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.g.resources
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.Properties.Resources.resources
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\interfacegraphe.exe
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\interfacegraphe.pdb
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.exe
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.pdb
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\DLLgraphe.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\DLLgraphe.pdb
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\Microsoft.Expression.Interactions.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\System.Windows.Interactivity.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\WPFToolkit.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\Microsoft.Expression.Interactions.xml
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\System.Windows.Interactivity.xml
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\WPFToolkit.pdb
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\thibault\documents\visual studio 2010\Projects\graphe\interfacegraphe\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.exe
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.pdb
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\interfacegraphe.exe
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\interfacegraphe.pdb
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\DLLgraphe.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\WPFToolkit.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\DLLgraphe.pdb
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\WPFToolkit.pdb
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\MainWindow.baml
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\App.g.cs
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\interfacegraphe_MarkupCompile.cache
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.g.resources
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\interfacegraphe.Properties.Resources.resources
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thibault\Desktop\Graphe\interfacegraphe\obj\x86\Debug\GenerateResource.write.1.tlog
